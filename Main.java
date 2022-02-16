@@ -1,4 +1,4 @@
-public class Kata {
+public class Main {
 
   public static int[] arrayDiff(int[] a, int[] b) {
     // Your code here
